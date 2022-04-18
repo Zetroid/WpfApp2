@@ -17,7 +17,7 @@ using WpfApp;
 namespace WpfApp2
 {
     /// <summary>
-    /// Логика взаимодействия для Shop.xaml
+    /// Л0гика взаимодействия для Shop.xaml
     /// </summary>
     public partial class Shop : Page
     {
@@ -34,7 +34,7 @@ namespace WpfApp2
 
             selectedBooks.Text = "Выбрано книг: 0";
             totalCost.Text = "Стоимость покупки: 0 руб.";
-            discountTotal.Text = "0%";
+            discountTotal.Text = "0%"; 
         }
 
         private void BookList_SelectionChanged(object sender, SelectionChangedEventArgs e)

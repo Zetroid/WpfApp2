@@ -190,6 +190,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Covers\Долгая прогулка.jpg" />
+    <Resource Include="Covers\Король шрамов.jpg" />
+    <Resource Include="Covers\Красношейка.jpg" />
+    <Resource Include="Covers\Крещение огнем.jpg" />
+    <Resource Include="Covers\Мизери.jpg" />
+    <Resource Include="Covers\Повелитель мух.jpg" />
+    <Resource Include="Covers\Ритуал.jpg" />
+    <Resource Include="Covers\Странствия убийцы.jpg" />
+    <Resource Include="Covers\Творец заклинаний.jpg" />
+    <Resource Include="Covers\Финист - ясный сокол.jpg" />
+    <Resource Include="Covers\Цветы для Элджернона.jpg" />
     <Content Include="DBModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>DBModel.Context.cs</LastGenOutput>
